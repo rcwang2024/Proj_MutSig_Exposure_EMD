@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+# Jupyter / Python
+.ipynb_checkpoints/
+.virtual_documents/
+.jupyter/
+anaconda_projects/
+__pycache__/
+*.pyc
+*.backup
+# R
+.Rhistory
+.RData
+.Rproj.user/
+# Data (never commit raw / participant-level data)
+*.sas7bdat
+*.rds
